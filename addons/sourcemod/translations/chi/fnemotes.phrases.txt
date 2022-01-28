@@ -1,5 +1,21 @@
 "Phrases"
 {
+	"STOP_DANCE"
+	{
+		"chi"			"停止跳舞"
+	}
+	"FOR"
+	{
+		"chi"			"為了"
+	}
+	"SELECT_PLAYER"
+	{
+		"chi"			"選擇播放器:"
+	}
+	"DANCES_SOMEBODY"
+	{
+		"chi"			"強迫某人跳舞"
+	}
 	"SCOPE_DETECTED"
 	{
 		"chi"			"[{olive}表情动作{default}]{darkred} 开镜时您无法使用表情动作！"
@@ -20,6 +36,11 @@
 	"STAY_ON_GROUND"
 	{
 		"chi"			"[{olive}表情动作{default}]{darkred} 您必须呆在地上才能使用！"
+	}
+	
+	"NOT_INCAP"
+	{
+		"chi"			"[{olive}Emotes{default}]{darkred} 你不應該無能為力!"
 	}
 
 	"COOLDOWN_EMOTES"
